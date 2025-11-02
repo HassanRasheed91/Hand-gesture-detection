@@ -315,8 +315,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/shazimjaved/Hand-gesture-detection/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/shazimjaved/Hand-gesture-detection/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/HassanRasheed91/Hand-gesture-detection/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/HassanRasheed91/Hand-gesture-detection/discussions)
 
 ---
 
@@ -324,6 +324,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ By [Shazim Javed]
+Made with ❤️ By [Hassan Rasheed]
 
 </div>
